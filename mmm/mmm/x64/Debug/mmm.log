@@ -1,0 +1,7 @@
+﻿  소스.cpp
+C:\Users\jbnu\Desktop\김수비\알고리즘\과제3\mmm\mmm\소스.cpp(10,23): warning C4244: '인수': 'double'에서 'const _Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+  mmm.vcxproj -> C:\Users\jbnu\Desktop\김수비\알고리즘\과제3\mmm\x64\Debug\mmm.exe
